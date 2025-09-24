@@ -69,3 +69,5 @@ Claude AI 使用技巧和心得記錄。
 [Claude Code MCP: How to Add MCP Servers (Complete Guide)](https://www.youtube.com/watch?v=DfWHX7kszQI)
 
 [Claude Code PM](https://github.com/automazeio/ccpm)
+
+[Turn Claude Code into Your Own INCREDIBLE UI Designer (using Playwright MCP Subagents)](https://www.youtube.com/watch?v=xOO8Wt_i72s)
