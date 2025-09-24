@@ -33,13 +33,14 @@ Claude AI 使用技巧和心得記錄。
   * http: 一般 http 傳輸
   * name: 自訂名稱
   * url: MCP 伺服器網址
-
+  
 * 查看已加入的 MCP: ``` claude mcp list ```
 * 在 claude 中查詢可用 mcp: `/mcp`
     * 需要在 claude 啟動後使用
 
 ### MCP 範圍
 * 加入使用範圍: `--scope <scope>`
+* e.g.: `claude mcp add --transport http --scope project context7 https://mcp.context7.com/mcp` 
   
 | 範圍             | 參數      | 說明               |
 | ---------------- | --------- | ------------------ |
@@ -49,7 +50,7 @@ Claude AI 使用技巧和心得記錄。
 
 ### 常用 MCP server
 
-| 名稱     | 用途         | MCP Server Url               |
+| 名稱     | 用途         | Add MCP Server               |
 | -------- | ------------ | ---------------------------- |
 | context7 | 取得最新文件 | https://mcp.context7.com/mcp |
 
@@ -66,3 +67,5 @@ Claude AI 使用技巧和心得記錄。
 [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
 
 [Claude Code MCP: How to Add MCP Servers (Complete Guide)](https://www.youtube.com/watch?v=DfWHX7kszQI)
+
+[Claude Code PM](https://github.com/automazeio/ccpm)
