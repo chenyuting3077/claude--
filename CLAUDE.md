@@ -26,3 +26,4 @@ This is a documentation-only repository with no build system, tests, or developm
 ## Permissions
 
 The repository has Claude Code configured with permission to create directories via `Bash(mkdir:*)` as specified in `.claude/settings.local.json`.
+- 請總是用繁體中文回覆
